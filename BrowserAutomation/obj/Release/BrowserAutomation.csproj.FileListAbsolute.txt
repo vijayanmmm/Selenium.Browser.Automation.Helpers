@@ -1,0 +1,17 @@
+c:\users\vijayan.venkateshan\documents\visual studio 2013\Projects\BrowserAutomation\BrowserAutomation\bin\Release\BrowserAutomation.dll
+c:\users\vijayan.venkateshan\documents\visual studio 2013\Projects\BrowserAutomation\BrowserAutomation\bin\Release\BrowserAutomation.pdb
+c:\users\vijayan.venkateshan\documents\visual studio 2013\Projects\BrowserAutomation\BrowserAutomation\bin\Release\WebDriver.dll
+c:\users\vijayan.venkateshan\documents\visual studio 2013\Projects\BrowserAutomation\BrowserAutomation\bin\Release\WebDriver.Support.dll
+c:\users\vijayan.venkateshan\documents\visual studio 2013\Projects\BrowserAutomation\BrowserAutomation\bin\Release\WebDriver.xml
+c:\users\vijayan.venkateshan\documents\visual studio 2013\Projects\BrowserAutomation\BrowserAutomation\bin\Release\WebDriver.Support.xml
+c:\users\vijayan.venkateshan\documents\visual studio 2013\Projects\BrowserAutomation\BrowserAutomation\obj\Release\BrowserAutomation.dll
+c:\users\vijayan.venkateshan\documents\visual studio 2013\Projects\BrowserAutomation\BrowserAutomation\obj\Release\BrowserAutomation.pdb
+C:\ProjectsNew\BrowserAutomation\BrowserAutomation\bin\Release\BrowserAutomation.dll
+C:\ProjectsNew\BrowserAutomation\BrowserAutomation\bin\Release\BrowserAutomation.pdb
+C:\ProjectsNew\BrowserAutomation\BrowserAutomation\bin\Release\WebDriver.dll
+C:\ProjectsNew\BrowserAutomation\BrowserAutomation\bin\Release\WebDriver.Support.dll
+C:\ProjectsNew\BrowserAutomation\BrowserAutomation\bin\Release\WebDriver.xml
+C:\ProjectsNew\BrowserAutomation\BrowserAutomation\bin\Release\WebDriver.Support.xml
+C:\ProjectsNew\BrowserAutomation\BrowserAutomation\obj\Release\BrowserAutomation.dll
+C:\ProjectsNew\BrowserAutomation\BrowserAutomation\obj\Release\BrowserAutomation.pdb
+C:\ProjectsNew\BrowserAutomation\BrowserAutomation\obj\Release\BrowserAutomation.csprojResolveAssemblyReference.cache

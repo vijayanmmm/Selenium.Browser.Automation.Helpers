@@ -1,0 +1,9 @@
+c:\users\vijayan.venkateshan\documents\visual studio 2013\Projects\BrowserAutomation\BrowserAutomation\bin\Debug\BrowserAutomation.dll
+c:\users\vijayan.venkateshan\documents\visual studio 2013\Projects\BrowserAutomation\BrowserAutomation\bin\Debug\BrowserAutomation.pdb
+c:\users\vijayan.venkateshan\documents\visual studio 2013\Projects\BrowserAutomation\BrowserAutomation\bin\Debug\WebDriver.dll
+c:\users\vijayan.venkateshan\documents\visual studio 2013\Projects\BrowserAutomation\BrowserAutomation\bin\Debug\WebDriver.Support.dll
+c:\users\vijayan.venkateshan\documents\visual studio 2013\Projects\BrowserAutomation\BrowserAutomation\bin\Debug\WebDriver.xml
+c:\users\vijayan.venkateshan\documents\visual studio 2013\Projects\BrowserAutomation\BrowserAutomation\bin\Debug\WebDriver.Support.xml
+c:\users\vijayan.venkateshan\documents\visual studio 2013\Projects\BrowserAutomation\BrowserAutomation\obj\Debug\BrowserAutomation.dll
+c:\users\vijayan.venkateshan\documents\visual studio 2013\Projects\BrowserAutomation\BrowserAutomation\obj\Debug\BrowserAutomation.pdb
+C:\Users\vijayan.venkateshan\Documents\Visual Studio 2013\Projects\BrowserAutomation\BrowserAutomation\obj\Debug\BrowserAutomation.csprojResolveAssemblyReference.cache
