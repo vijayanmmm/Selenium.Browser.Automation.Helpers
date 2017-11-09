@@ -8,15 +8,15 @@ This project to provide an easy way to start automating browser using selenium. 
 
 # Samples - C#
 ## NamesSpace
-'''
+```c#
 using BrowserAutomation;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
 using OpenQA.Selenium.Interactions; //For the actions like Double click and item in the webpage
-'''
+```
 ## Data Filling(Only text) & Click Button
 The following code to open the facebook web page, then enter user name and password.
-'''
+```c#
             clsBrowserAutomation objBrowser = new clsBrowserAutomation();
             IWebDriver chromeBrowser = objBrowser.openChrome();
             //Open the website
@@ -26,12 +26,12 @@ The following code to open the facebook web page, then enter user name and passw
             objBrowser.SetText(chromeBrowser, "pass", "password");
             //Click the login button
             objBrowser.FindElementByID(chromeBrowser,"u_0_5").Click();
-'''
+```
 
 ## Data Filling(text & options) & Click Button
 The following code to open the facebook web page, then fill the signup details.
 
-'''
+```c#
             clsBrowserAutomation objBrowser = new clsBrowserAutomation();
             IWebDriver chromeBrowser = objBrowser.openChrome();
             //Open the website
@@ -54,5 +54,5 @@ The following code to open the facebook web page, then fill the signup details.
             objBrowser.FindElementByID(chromeBrowser, "u_0_6").Click();
             //Click the Signup button
             objBrowser.FindElementByID(chromeBrowser, "u_0_y").Click();
-  '''
+  ```
   
